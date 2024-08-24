@@ -1,3 +1,3 @@
 # BWD- Basic-Web-Design
 
-[index.html](intro_to_html/file.html)
+<a href="Intro_to_html/index.html">Intro to HTML</a>
