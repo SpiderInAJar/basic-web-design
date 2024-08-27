@@ -36,6 +36,9 @@ body {
         text-align: center;
     }
 
-::content{
-    margin: auto;
-}
+    <style>
+    .content {
+      max-width: 500px;
+      margin: auto;
+    }
+    </style>
