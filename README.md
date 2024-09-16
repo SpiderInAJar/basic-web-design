@@ -8,4 +8,6 @@
 
 <li><a href="adv_css/index.html" targets="_blank">Advanced CSS</a></li>
 
+
+<li><a href="responsive/index.html" targets="_blank">Responsive</a></li>
 </ul>
