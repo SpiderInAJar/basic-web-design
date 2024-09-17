@@ -14,6 +14,10 @@ img{
     background-color:#B86523 ;
 }
 
+.heading_style{
+    text-align: center;
+}
+
 /* Mobile Styles */
 
 @media(min-width: 320px){
@@ -95,7 +99,7 @@ nav {
 padding: 0;
 }
  nav li a {
-    background-color: black;
+    background-color: orange;
  }
  hr{
     display: none;
