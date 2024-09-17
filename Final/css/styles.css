@@ -58,7 +58,6 @@ padding: 20px;
 h1, h2, h3 {
     text-align: center;
  text-shadow: 1px 1px 1px #0A0907
- font-family "Roboto", sans-serif;
   }
 
 
@@ -83,6 +82,7 @@ nav li a {
 
 .heading_style{
 width: 50%;
+font-family:sans-serif
 }
 }
 
