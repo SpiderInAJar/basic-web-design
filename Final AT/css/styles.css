@@ -18,6 +18,8 @@ img{
     text-align: center;
 }
 
+
+
 /* Mobile Styles */
 
 @media(min-width: 320px){
@@ -112,5 +114,11 @@ padding: 0;
 padding: 20px;
 border:  2px solid black;
 }
+
+
+
+
 }
+
+
 
